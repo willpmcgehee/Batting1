@@ -9,7 +9,9 @@ From these basic queries, it would seem that BA and SLG are less correlated to t
 OPS would seem to the be the most highly correlated. 
 
 For my own memory:
+
 AVG OPS per Team: 0.7212
+
 STD OPS per Team: 0.0451
 
 Any OPS over 0.766 is pretty good.
